@@ -13,12 +13,11 @@ body {
 }
 
 .bookmarks {
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 8px;
+    padding-bottom: 20px;
     background-color: rgba(255, 255, 255, 0.1);
     vertical-align: top;
-    height: 250px;
-   padding-left: 30px;
+    padding-left: 30px;
 }
 
 table {
