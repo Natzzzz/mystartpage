@@ -1,0 +1,65 @@
+body {
+    margin-top: 200px;
+    background-color: #1A212C;
+    color: white;
+    font-family: 'Space Mono', monospace;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.container {
+    text-align: justify;
+    vertical-align: top;
+}
+
+.bookmarks {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: rgba(255, 255, 255, 0.1);
+    vertical-align: top;
+    height: 250px;
+   padding-left: 30px;
+}
+
+table {
+    table-layout: fixed;
+    width: 100% ;
+}
+td {
+    width: 50%;
+}
+
+h2 {
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+    font-size : 100%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: 1.5s
+}
+
+.bookTitles {
+    text-align: left;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.RS {
+    background-color: rgba(255, 255, 255, 0.1);
+    text-align: center;
+    padding: 10px;
+    word-wrap: break-word;
+}
+
+.tableRS {
+    padding-top: 30px;
+}
