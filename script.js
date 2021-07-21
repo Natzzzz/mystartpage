@@ -46,3 +46,5 @@ var callBackGetSuccess = function(data) {
       element.innerHTML = evening
     }
 }
+
+var gettingTree = browser.bookmarks.getTree()

@@ -1,2 +1,2 @@
 # mystartpage
-The startpage I created, with the links I use the most
+A clean and simple startpage displaying the weather and the current time. 
